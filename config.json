@@ -1,0 +1,11 @@
+{
+  "url": "https://www.espn.com/nfl/lines",
+  "selectors": {
+    "table_section": "section.Card > div.Wrapper",
+    "headline": "h1.headline",
+    "date": "div.Table__Title",
+    "game_table": "div.margin-wrapper table",
+    "header": "thead > tr > th",
+    "teams": "tbody > tr"
+  }
+}
